@@ -5,7 +5,7 @@ TASK 1: REPOSITORY SETUP
  ![image 1](<C:\Users\KIKEN\Pictures\Screenshot (101).png>)
 - Initialize it with a README file:
  
- 
+ ![alt text](image.png)
 
 TASK 2: LOCAL SETUP
 2. Local Folder Setup:
