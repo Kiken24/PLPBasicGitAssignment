@@ -2,7 +2,7 @@ TASK 1: REPOSITORY SETUP
 1. Creation of GitHub Repository:
 - Logging in to my GitHub account.
 - Create a new repository on GitHub (let's call it "PLPBasicGitAssignment").
- 
+ ![image 1](<C:\Users\KIKEN\Pictures\Screenshot (101).png>)
 - Initialize it with a README file:
  
  
